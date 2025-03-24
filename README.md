@@ -45,4 +45,4 @@ Chương trình có giao diện điều khiển, cho phép người dùng lựa 
 ## Tương Lai
 Có thể mở rộng thêm các phép toán khác như căn bậc hai, lũy thừa, hoặc tạo giao diện đồ họa (GUI) để cải thiện trải nghiệm người dùng.
 ## Liên Hệ
-Tác giả: HoangNguyen
+Tác giả: HoangNguyen - Nhà phát triển chính.
