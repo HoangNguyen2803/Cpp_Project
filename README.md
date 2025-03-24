@@ -41,7 +41,7 @@ Chương trình có giao diện điều khiển, cho phép người dùng lựa 
    ./maytinh
 
 **Xử Lý Ngoại Lệ**
-- Nếu người dùng chọn phép chia và nhập số chia là 0
+- Nếu người dùng chọn phép chia và nhập số chia là 0, thì chương trình báo lỗi!
 ## Tương Lai
 Có thể mở rộng thêm các phép toán khác như căn bậc hai, lũy thừa, hoặc tạo giao diện đồ họa (GUI) để cải thiện trải nghiệm người dùng.
 ## Liên Hệ
